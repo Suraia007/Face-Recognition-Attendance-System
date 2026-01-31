@@ -168,13 +168,14 @@ http://localhost/Face-Recognition-Attendance-System
 
 - **Email**: `admin@gmail.com`
 - **Password**: `@admin_`
-Add students
+  
+-Add students
 
-Add lecturers
+-Add lecturers
 
-Manage courses and venues
+-Manage courses and venues
 
-Capture student face images
+-Capture student face images
 
 ⚠ Capture at least 5 clear images per student for better accuracy.
 
@@ -216,7 +217,5 @@ Secure database storage
 
 Only authorized users can access attendance data
 
-License:
 
-This project is licensed under the MIT License.
 
